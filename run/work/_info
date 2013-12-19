@@ -1,0 +1,409 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\arshad_home\projects\lzw_group1_final_project_sent\run
+vappend_char_ram
+!i10b 1
+Z1 !s100 dCc4<QadjcKBHcZao9_dC2
+Z2 If]_WiVLAa1lnmj[=1?T_i2
+Z3 VIA8aKA:f<JP6<7M<J`?>:3
+Z4 dC:\arshad_home\projects\lzw_group1_final_project_sent\run
+Z5 w1290584258
+Z6 8../rtl/append_char_ram.v
+Z7 F../rtl/append_char_ram.v
+L0 5
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+Z9 !s108 1386751483.818000
+Z10 !s107 C:/Xilinx/14.7/ISE_DS/ISE/verilog/src/glbl.v|../models/ser_model.v|../rtl/outreg.v|../rtl/append_char_ram.v|../rtl/prefix_code_ram.v|../rtl/io_ram.v|../rtl/ser.v|../rtl/dictionary_ram.v|../rtl/hash.v|../rtl/code_value_ram.v|../rtl/top_ctrl.v|../rtl/lzw_enc.v|../rtl/lzw_ctrl.v|../rtl/lzw.v|../rtl/timescale.v|../tb/tb.v|../test_cases/test.v|
+Z11 !s90 -reportprogress|300|../test_cases/test.v|../tb/tb.v|../rtl/timescale.v|../rtl/lzw.v|../rtl/lzw_ctrl.v|../rtl/lzw_enc.v|../rtl/top_ctrl.v|../rtl/code_value_ram.v|../rtl/hash.v|../rtl/dictionary_ram.v|../rtl/ser.v|../rtl/io_ram.v|../rtl/prefix_code_ram.v|../rtl/append_char_ram.v|../rtl/outreg.v|../models/ser_model.v|C:/Xilinx/14.7/ISE_DS/ISE/verilog/src/glbl.v|-y|C:/Xilinx/14.7/ISE_DS/ISE/verilog/src/unisims|+libext+.v|
+!s101 -O0
+Z12 o+libext+.v -O0
+Z13 !s92 -y C:/Xilinx/14.7/ISE_DS/ISE/verilog/src/unisims +libext+.v -O0
+vcode_value_ram
+!i10b 1
+Z14 !s100 afRVGjZAk5@Zi_z3P2H^H0
+Z15 I7zj=oNVmn>zMDoF[:X<7g2
+Z16 VV1G9m3[PEJd<0HngW;YZ13
+R4
+Z17 w1290583906
+Z18 8../rtl/code_value_ram.v
+Z19 F../rtl/code_value_ram.v
+L0 7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
+vdictionary_ram
+!i10b 1
+Z20 !s100 nNK^;YWoORJ<Sz90hVJZc3
+Z21 IFhk:010E4>@XRQUBG<K?a3
+Z22 Vc@YGFo`F=QR[NOlcC2S>V0
+R4
+Z23 w1290143016
+Z24 8../rtl/dictionary_ram.v
+Z25 F../rtl/dictionary_ram.v
+L0 5
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
+vglbl
+!i10b 1
+Z26 !s100 n`cHBQgdb81BodVVo^HAf3
+Z27 Il]i:nCaJcgjcJbTa^C<FU1
+Z28 VM[9mS]S:KA1i4VeCMX35[3
+R4
+Z29 w1381681120
+Z30 8C:/Xilinx/14.7/ISE_DS/ISE/verilog/src/glbl.v
+Z31 FC:/Xilinx/14.7/ISE_DS/ISE/verilog/src/glbl.v
+L0 5
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
+vhash
+!i10b 1
+Z32 !s100 Oz:<9dPU2E<kKQ65jYGe<2
+Z33 IKA^HiJIDoBEBKjjD[LijR1
+Z34 VHdEBY3CPR:iXz9h]gia0Q1
+R4
+Z35 w1291269983
+Z36 8../rtl/hash.v
+Z37 F../rtl/hash.v
+L0 5
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
+vio_ram
+!i10b 1
+Z38 !s100 eA?U2^b5gF9ERP=_UdIfR3
+Z39 IW8zCE>B4g7TL94T^VC=Bb0
+Z40 VWHBUQ<HJW_2L6KYIG=W@>2
+R4
+Z41 w1290704033
+Z42 8../rtl/io_ram.v
+Z43 F../rtl/io_ram.v
+L0 8
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
+vlzw
+!i10b 1
+Z44 !s100 Ymd3ED^>_8h=Q<BI49K3F1
+Z45 IFPQ5;GV4QQkcK^VcCE4;;2
+Z46 VC28QgWF<61Fj<oe:TVFgT0
+R4
+Z47 w1291634224
+Z48 8../rtl/lzw.v
+Z49 F../rtl/lzw.v
+L0 5
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
+vlzw_ctrl
+!i10b 1
+Z50 !s100 jVg:CaM^XeGO<fA7<31eB0
+Z51 IIIKoLl^I<@iCQI1bmmlzY2
+Z52 VFhe=OdH?;9FhNF3OCL:ED0
+R4
+Z53 w1294300671
+Z54 8../rtl/lzw_ctrl.v
+Z55 F../rtl/lzw_ctrl.v
+L0 5
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
+vlzw_enc
+!i10b 1
+Z56 !s100 azIWd520MF?ohKZ4[AiJH1
+Z57 Ia2IIGi1`kin9UUkC@TSaN2
+Z58 Vez_ffoh0:B@lK4:aMXU2i3
+R4
+Z59 w1291275066
+Z60 8../rtl/lzw_enc.v
+Z61 F../rtl/lzw_enc.v
+L0 5
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
+voutreg
+!i10b 1
+Z62 !s100 ZeTSX[zm:`5RlA9aGWfzf2
+Z63 Iam[2ohGN=^naRKce78b:W1
+Z64 VDTfZ3glWhP[WTYXYchZF70
+R4
+Z65 w1294299030
+Z66 8../rtl/outreg.v
+Z67 F../rtl/outreg.v
+L0 5
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
+vprefix_code_ram
+!i10b 1
+Z68 !s100 2Z^k@9:]GhCIhU@;Cg5J<2
+Z69 IWofc5LM3@fFnUg7YOL25I0
+Z70 VHS4:;fDmNQZP17aYCc9QI0
+R4
+Z71 w1290584223
+Z72 8../rtl/prefix_code_ram.v
+Z73 F../rtl/prefix_code_ram.v
+L0 5
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
+vRAMB16_S18
+!i10b 1
+Z74 !s100 <]]1OC>n8L8@5]bm@YBiJ3
+Z75 IamQZ<l13nnjBnz8;K<k421
+Z76 VONR=:n][KDE5f77z@RSbn1
+R4
+Z77 w1381681119
+Z78 8C:/Xilinx/14.7/ISE_DS/ISE/verilog/src/unisims/RAMB16_S18.v
+Z79 FC:/Xilinx/14.7/ISE_DS/ISE/verilog/src/unisims/RAMB16_S18.v
+Z80 L0 469
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
+Z81 n@r@a@m@b16_@s18
+vRAMB16_S18_S18
+!i10b 1
+Z82 !s100 1SjPh_3I?UY1Jo2<4z4<`0
+Z83 IYWoSODjDo53TPo<9UWJ2g0
+Z84 VDd9QW8mclcUbfbBN7^06M0
+R4
+R77
+Z85 8C:/Xilinx/14.7/ISE_DS/ISE/verilog/src/unisims/RAMB16_S18_S18.v
+Z86 FC:/Xilinx/14.7/ISE_DS/ISE/verilog/src/unisims/RAMB16_S18_S18.v
+Z87 L0 1122
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
+Z88 n@r@a@m@b16_@s18_@s18
+vRAMB4_S8
+!i10b 1
+Z89 !s100 ]QRdLYA`H5c8^kT8gQHAf1
+Z90 I3_gPVTR0cU`l;6Lg@LMI>3
+Z91 VmH4^CNiUPkQCf5jb;na;e3
+R4
+R77
+Z92 8C:/Xilinx/14.7/ISE_DS/ISE/verilog/src/unisims/RAMB4_S8.v
+Z93 FC:/Xilinx/14.7/ISE_DS/ISE/verilog/src/unisims/RAMB4_S8.v
+Z94 L0 222
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
+Z95 n@r@a@m@b4_@s8
+vRAMB4_S8_S8
+!i10b 1
+Z96 !s100 jl2DHBI52e`:]:EDlAP7U3
+Z97 I3M:zI=IF>Ezd@Y5kle6Q32
+Z98 VF1GjETfA89UZ@NP<WR@Q60
+R4
+R77
+Z99 8C:/Xilinx/14.7/ISE_DS/ISE/verilog/src/unisims/RAMB4_S8_S8.v
+Z100 FC:/Xilinx/14.7/ISE_DS/ISE/verilog/src/unisims/RAMB4_S8_S8.v
+Z101 L0 619
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
+Z102 n@r@a@m@b4_@s8_@s8
+vser
+!i10b 1
+Z103 !s100 UmWjKH6gW89BHFNfb>>g31
+Z104 IX04@bNjeQhME^jo?`UKhg3
+Z105 V:_SG_i;?z9Obh]_DIIOPn2
+R4
+Z106 w1294307361
+Z107 8../rtl/ser.v
+Z108 F../rtl/ser.v
+L0 7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
+vser_model
+!i10b 1
+Z109 !s100 lW;JcoFCm6eRZb78j6PnF2
+Z110 Idg[2LLz2e_P5TR:OH<_<_0
+Z111 VU^LWc^BD3Z=?0S_WE^Cfm3
+R4
+Z112 w1291475674
+Z113 8../models/ser_model.v
+Z114 F../models/ser_model.v
+L0 10
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
+vtb
+!i10b 1
+Z115 !s100 hm5ODaG;W1X2OP9UoA_Oc0
+Z116 I[CmQFKEen;ogJi0;@0bn^1
+Z117 VV@Xn<HnSRM[I5c1?BH]3a3
+R4
+Z118 w1291457458
+Z119 8../tb/tb.v
+Z120 F../tb/tb.v
+L0 6
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
+vtest
+!i10b 1
+Z121 !s100 BOGGeF;J2E@NAeVC>Pm_L1
+Z122 IlM0AjTT<7mMhTJT9hIS3S1
+Z123 Vk<3<[f=78GX=_HO53D;7>3
+R4
+Z124 w1294295594
+Z125 8../test_cases/test.v
+Z126 F../test_cases/test.v
+L0 6
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
+vtop_ctrl
+!i10b 1
+Z127 !s100 CC2MzC]VKTImPL>RWcDMP1
+Z128 If?@YE:6>^60DEzgSgo?kn2
+Z129 V=iMMooVMS?d]`6Y8Pde701
+R4
+Z130 w1294299652
+Z131 8../rtl/top_ctrl.v
+Z132 F../rtl/top_ctrl.v
+L0 7
+R8
+r1
+!s85 0
+31
+R9
+R10
+R11
+!s101 -O0
+R12
+R13
